@@ -3,3 +3,7 @@ function clickEvent(first,last){
       document.getElementById(last).focus();
     }
   }
+  function conf()
+  {
+    alert("Your OTP is verified.")
+  }
