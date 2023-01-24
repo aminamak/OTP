@@ -1,19 +1,22 @@
-
 body {
     margin: 0;
     padding: 0;
     height: 100vh;
-    background: #000000; 
+    background:rgb(245, 47, 12); 
     background: -webkit-linear-gradient(
       to right,
-      #434343,
-      #000000
+      #da9292,
+      #ca0909
     ); 
     background: linear-gradient(
       to right,
-      #434343,
-      #000000
+      #e68888,
+      #d60d0d
     ); 
+  
+    
+    overflow: hidden;
+    filter: drop-shadow(0 0 10px white);
   }
   
   .container {
